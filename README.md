@@ -1,4 +1,8 @@
 # CSE 110 Team 14 Project: Milestone 2
+## Before launching
+1. Make sure to put the proper API Key of Open AI into Globals.java
+2. Make sure to have the MongoDB cluster properly setted up.
+3. Add the MongoDB URI into Globals.java.
 
 ## How to launch the server: 
 1. Find Server.java in the model folder
